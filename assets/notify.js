@@ -367,7 +367,7 @@
         valName();
         valPhone();
         //valAddress()
-        valProof();
+        //valProof();
         $("body").on('touchend, click', function() {
             $('.' + _opt.error_class).remove();
         });
